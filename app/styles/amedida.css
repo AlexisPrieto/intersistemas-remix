@@ -1,0 +1,16 @@
+.contenido{
+    /*color: white;*/
+    background-image: url(../../public/img/AMedida_ilu.png);
+    padding: 11.5rem;
+    /*zoom: 60%;*/
+    /*height: 800px;*/
+    background-size: cover;
+    background-position: center center;
+    display: flex;
+    justify-content: flex-end;
+    color: white;
+}
+
+.text{
+    width: 65%;
+}
