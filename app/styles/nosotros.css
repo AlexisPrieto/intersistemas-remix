@@ -1,4 +1,4 @@
-.contenido{
+.contenidoNosotros{
     /*color: white;*/
     background-image: url(../../public/img/Nosotros_background_1.png);
     padding: 11.5rem;
@@ -11,11 +11,11 @@
     color: white;
 }
 
-.text{
+.textNosotros{
     width: 65%;
 }
 
-.contenido2{
+.contenidoNosotros2{
     /*color: white;*/
 
     background-image: url(../../public/img/Nosotros_background_2.png);
@@ -29,6 +29,6 @@
     color: white;
 }
 
-.text2{
+.textNosotros2{
     width: 60%;
 }
