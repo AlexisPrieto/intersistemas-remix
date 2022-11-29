@@ -4,10 +4,12 @@ import Footer from '~/components/footer'
 function Contacto() {
   return (
     
-    <div>Contacto
+    <main className="contenedor">
 
-            <Footer/>
-    </div>
+        <h2 className="heading">Contacto</h2>
+
+     <Footer/>
+    </main>
   )
 }
 

@@ -31,8 +31,8 @@ function Amedida() {
 
             <h2 className="heading">A Medida</h2>
 
-            <div className="contenido"> 
-                <div className='text'>
+            <div className="contenidoAmedida"> 
+                <div className='textAmedida'>
                     <strong>Lorem Ipsum:</strong> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an f Letraset sheets containing Lorem Ipsum passages, and more recently with desktop 
                     Lorem Ipsum is simply dummy text of the printing and typesetting industry.
                 </div>

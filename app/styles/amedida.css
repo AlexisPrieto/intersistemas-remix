@@ -1,16 +1,17 @@
-.contenido{
+.contenidoAmedida{
     /*color: white;*/
     background-image: url(../../public/img/AMedida_ilu.png);
+    background-repeat : no-repeat;
     padding: 11.5rem;
     /*zoom: 60%;*/
     /*height: 800px;*/
-    background-size: cover;
-    background-position: center center;
+    background-size: contain;
+    background-position: right;
     display: flex;
     justify-content: flex-end;
-    color: white;
+    color: #FF8300;
 }
 
-.text{
+.textAmedida{
     width: 65%;
 }
