@@ -10,7 +10,11 @@ import{
 
 import styles from '~/styles/index.css';
 import nosotros from '~/styles/nosotros.css';
+import servicios from '~/styles/servicios.css';
 import amedida from '~/styles/amedida.css';
+import recursos from '~/styles/recursos.css';
+import preguntasfrecuentes from '~/styles/preguntasfrecuentes.css';
+import contacto from '~/styles/contacto.css';
 
 import Header from '~/components/header';
 import Footer from "~/components/footer";
@@ -58,8 +62,24 @@ export function links(){
        {
         rel: 'stylesheet',
         href: amedida
+       },
+       {
+        rel: 'stylesheet',
+        href: servicios
+       },
+       {
+        rel: 'stylesheet',
+        href: recursos
+       },
+       {
+        rel: 'stylesheet',
+        href: preguntasfrecuentes
+       },
+       {
+        rel: 'stylesheet',
+        href: contacto
        }
-
+       
        
     ]
   }

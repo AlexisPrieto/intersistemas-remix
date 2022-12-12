@@ -1,0 +1,17 @@
+.contenidoServicios{
+    /*color: white;*/
+    background-image: url(../../public/img/Servicio.png);
+    padding: 1rem;
+    /*zoom: 60%;*/
+    /*height: 800px;*/
+    background-size: contain;
+    /*background-position: center center;*/
+    display: flex;
+    justify-content: flex-end;
+    color: #FF8300;
+    background-repeat: no-repeat;
+}
+
+.textServicios{
+    width: 55%;
+}

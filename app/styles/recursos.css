@@ -1,0 +1,17 @@
+.contenidoRecursos{
+    /*color: white;*/
+    background-image: url(../../public/img/Recursos.png);
+    padding: 16rem;
+    /*zoom: 60%;*/
+    /*height: 800px;*/
+    background-size: contain;
+    /*background-position: center center;*/
+    display: flex;
+    justify-content: flex-end;
+    color: #FF8300;
+    background-repeat: no-repeat;
+}
+
+.textRecursos{
+    width: 55%;
+}
