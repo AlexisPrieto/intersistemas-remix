@@ -1,11 +1,12 @@
-.contenidoAmedida{
+.contenidoPregF{
     /*color: white;*/
-    background-image: url(../../public/img/AMedida_ilu.png);
+    background-image: url(../../public/img/PreguntasFrecuentes.png);
     background-repeat : no-repeat;
-    padding: 11.5rem;
+    margin-left: 5%;
+    /*padding: 11.5rem;*/
     /*zoom: 60%;*/
     /*height: 800px;*/
-    background-size: contain;
+    /*background-size: contain;*/
     background-position: right;
     display: flex;
     justify-content: flex-end;
@@ -13,6 +14,6 @@
     justify-content: left;
 }
 
-.textAmedida{
+.textPregF{
     width: 50%;
 }

@@ -1,5 +1,4 @@
 import img from '../../public/img/Nosotros_background_1.png'
-import img2 from '../../public/img/Nosotros_background_1.png'
 import styles from '~/styles/nosotros.css'
 
 export function meta(){

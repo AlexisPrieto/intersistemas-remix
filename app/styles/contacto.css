@@ -1,18 +1,21 @@
-.contenidoAmedida{
+.contenidoContacto{
     /*color: white;*/
-    background-image: url(../../public/img/AMedida_ilu.png);
+    background-image: url(../../public/img/Contacto_background.png);
+    background-size: 100%;
     background-repeat : no-repeat;
-    padding: 11.5rem;
+    
+    /*padding: 11.5rem;*/
     /*zoom: 60%;*/
     /*height: 800px;*/
-    background-size: contain;
+    /*background-size: contain;*/
     background-position: right;
     display: flex;
     justify-content: flex-end;
     color: #FF8300;
     justify-content: left;
+    place-content: center;
 }
 
-.textAmedida{
+.textContacto{
     width: 50%;
 }
